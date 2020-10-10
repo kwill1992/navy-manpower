@@ -1,3 +1,5 @@
 # navy-manpower
-Modeling Navy Manpower
-Sending a line from R Studio
+Modeling Navy Manpower  
+  
+Use moving bubbles to make look like queuing?
+https://flowingdata.com/charttype/moving-bubbles/
